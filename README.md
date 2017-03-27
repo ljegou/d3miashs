@@ -1,3 +1,3 @@
-# d3sigma
-Tutoriel D3 Master 2 Sigma
+# d3miashs
+Tutoriel D3 L3 MIA-SHS option géographie
 Version en ligne Pages.
